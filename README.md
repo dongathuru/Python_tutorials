@@ -5,10 +5,10 @@ In this case we'll be dealing with the various core datatypes that grace the Pyt
 #
 #
 Some of the material from:
-  James Powell:https://github.com/dutc
-  Corey Schafer:Patreon: https://www.patreon.com/coreyms. 
+  1.James Powell:https://github.com/dutc
+  2.Corey Schafer:Patreon: https://www.patreon.com/coreyms 
                 Website: http://coreyms.com/
-  Python notes for Proffessionals:https://books.goalkicker.com/PythonBook/
+  3.Python notes for Proffessionals:https://books.goalkicker.com/PythonBook/
 #
 #
 #
